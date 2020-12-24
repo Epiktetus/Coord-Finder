@@ -1,0 +1,1 @@
+screen.deleteContent(CoordBox)
